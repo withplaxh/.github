@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#arquitectura-dígital">🏛️ Arquitectura Dígital</a>
+  <a href="#arquitectura-dígital">🏛️ Arquitectura Digital</a>
   • <a href="#cuenta-única-ciudadana">🎭 Cuenta Única Ciudadana</a>
   • <a href="#diseño">📐 Diseño</a>
   • <a href="#sitios-web">🔗 Sitios web</a>
@@ -30,11 +30,11 @@
 
 # Portafolio
 
-> Lista organizada de los increíbles proyectos de República Dominicana y sus instituciones gubernamentales.
+> Lista organizada de los increíbles proyectos de la República Dominicana y sus instituciones gubernamentales.
 
 ## Arquitectura Dígital
 
-_Conoce las documentación de las soluciones principales sostenidas por OGTIC_
+_Conoce las documentación de las soluciones principales sostenidas por la OGTIC_
 
 - [arquitectura-digital](https://github.com/ogticrd/arquitectura-digital)
   <img align="right" src="https://img.shields.io/github/stars/ogticrd/arquitectura-digital?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
@@ -75,7 +75,7 @@ _Sitios web de servcicios gubernamentales del estado dominicano._
 
 ## Código público
 
-_Proyectos open source del estado dominicao. ¿Te animas a colaborar?._
+_Proyectos open source del estado dominicano. ¿Te animas a colaborar?._
 
 - [official-header](https://github.com/ogticrd/official-header)
   <img align="right" src="https://img.shields.io/github/stars/ogticrd/official-header?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars">
